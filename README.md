@@ -1,4 +1,4 @@
-# CucumberOnline3x_March24
+# My Eid Project
 Java, Cucumber, Gherkin, TestNG, Maven, GitHub and Jenkins
 
 # TOOLS Required
